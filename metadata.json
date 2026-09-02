@@ -1,0 +1,6 @@
+{
+  "name": "SafeStay — Smart Hostel Management Network",
+  "description": "Smart Hostel Management Network connecting Students, Parents, Wardens, and Administrators with AI acoustic distress detection, room booking, fee payments, attendance, and emergency response.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
